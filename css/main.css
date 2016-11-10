@@ -117,7 +117,7 @@ ul {
   line-height: 70px;
 }
 #menu {
-  background-color:blue;
+  background-color:black;
   width: 593px;
   float: right;
 
@@ -127,7 +127,7 @@ ul {
 }
 
 #logo {
-  background-color: green;
+  background-color: gray;
   width: 367px;
   float: left;
 }
@@ -144,7 +144,7 @@ ul {
   width: 100%;
 }
 #footer {
-  background-color: orange;
+  background-color: black;
   clear: both;
 }
 
