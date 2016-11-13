@@ -127,7 +127,7 @@ ul {
 }
 
 #logo {
-  background-color: gray;
+  background-color: black;
   width: 367px;
   float: left;
 }
@@ -144,7 +144,7 @@ ul {
   width: 100%;
 }
 #footer {
-  background-color: black;
+  background-color: gray;
   clear: both;
 }
 
