@@ -73,6 +73,16 @@ textarea {
     resize: vertical;
 }
 
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
 /* ==========================================================================
    Browser Upgrade Prompt
    ========================================================================== */
