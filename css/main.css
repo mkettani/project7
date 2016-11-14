@@ -118,18 +118,17 @@ ul {
 }
 #menu {
   background-color:black;
-  width: 593px;
+  width: 493px;
   float: right;
 }
 #menu a {
   color: white;
-  position: 300px;
 }
 
 #logo {
   background-color: black;
   color: white;
-  width: 367px;
+  width: 467px;
   float: left;
 }
 #logo h1 {
