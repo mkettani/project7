@@ -124,6 +124,7 @@ ul {
 }
 #menu a {
   color: white;
+  float: right;
 }
 
 #logo {
