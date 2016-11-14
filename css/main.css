@@ -124,6 +124,11 @@ ul {
 #menu a {
   color: white;
 }
+#content {
+   width: 960px;
+   background-color:white;
+   float: left;
+}
 #content1 {
    background-color:white;  
    width: 240px;
