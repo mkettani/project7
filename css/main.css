@@ -141,24 +141,12 @@ ul {
    background-color:white;
    float: left;
 }
-#content1 {
+#content1, #content3 {
    background-color:white;  
    width: 240px;
    float: left;
 }
-#content2 {
-   background-color:black;
-   color:white;
-   width: 240px;
-   height: 266px;
-   float: left;
-}
-#content3 {
-   background-color:white;  
-   width: 240px;
-   float: left;
-}
-#content4 {
+#content2, #content4 {
    background-color:black;
    color:white;
    width: 240px;
@@ -186,6 +174,10 @@ ul {
   float: left;
   width: 310px;
   color: white;
+}
+#spacer {
+  float: left;
+  width: 10px;
 }
 #banner img {
   width: 100%;
