@@ -125,20 +125,24 @@ ul {
   color: white;
 }
 #content1 {
-background-color:white;  
-width: 240px;
+   background-color:white;  
+   width: 240px;
+   float: left;
 }
 #content2 {
-background-color:white;  
-width: 240px;
+   background-color:white;  
+   width: 240px;
+   float: left;
 }
 #content3 {
-background-color:white;  
-width: 240px;
+   background-color:white;  
+   width: 240px;
+   float: left;
 }
 #content4 {
-background-color:white;  
-width: 240px;
+   background-color:white;  
+   width: 240px;
+   float: left;
 }
 #logo {
   background-color: black;
