@@ -184,10 +184,10 @@ ul {
 }
 #feature1, #feature2, #feature3 {
   float: left;
-  width: 315px;
+  width: 300px;
   color: white;
   border-style: none;
-  border-width: 5px;
+  border-width: 20px;
 }
 #banner img {
   width: 100%;
