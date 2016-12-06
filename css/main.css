@@ -152,13 +152,13 @@ ul {
 }
 #content {
    width: 960px;
-   background-color:#E0FFFF;
+   background-color:#F5FFFA;
    float: left;
   font-family: "Times New Roman", Times, serif;
 }
 #content1, #content3 {
    background-color:#F5FFFA;  
-   width: 450px;
+   width: 460px;
    float: left;
   font-family: "Times New Roman", Times, serif;
 }
