@@ -142,23 +142,23 @@ ul {
   background-color:black;
   width: 260px;
   float: right;
-   font-family: Gotham ,'sans serif';
+   font-family: Arial, Helvetica, sans-serif;
 }
 #menu a {
   color: white;
-   font-family: Gotham ,'sans serif';
+   font-family: Arial, Helvetica, sans-serif;
 }
 #content {
    width: 960px;
    background-color:#E0FFFF;
    float: left;
-   font-family: Gotham ,'sans serif';
+  font-family: Arial, Helvetica, sans-serif;
 }
 #content1, #content3 {
    background-color:#E0FFFF;  
    width: 420px;
    float: left;
-   font-family: Gotham ,'sans serif';
+  font-family: Arial, Helvetica, sans-serif;
 }
 #content2, #content4 {
    background-color:#E0FFFF;
@@ -166,32 +166,32 @@ ul {
    width: 240px;
    height: 266px;
    float: left;
-     font-family: bebas neue ,'sans serif';
+     font-family: Arial, Helvetica, sans-serif;
 }
 #content5 {
    width: 960px;
    background-color:lightskyblue;
    color: white;
    float: left;
-     font-family: Gotham ,'sans serif';
+     font-family: Arial, Helvetica, sans-serif;
 }
 #logo {
   background-color: black;
   color: white;
   width: 700px;
   float: left;
-   font-family: Gotham ,'sans serif';
+   font-family: Arial, Helvetica, sans-serif;
 }
 #logo h1 {
   padding: 0px;
   margin: 0px;
-  font-family:simplifica, 'sans serif';
+  font-family: Arial, Helvetica, sans-serif;
 }
 #feature1, #feature2, #feature3 {
   float: left;
   width: 310px;
   color: white;
-     font-family: Neuzeit ,'serif';
+     font-family: Arial, Helvetica, sans-serif;
 }
 #spacer {
   float: left;
