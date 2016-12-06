@@ -152,18 +152,18 @@ ul {
 }
 #content {
    width: 960px;
-   background-color:#F5FFFA;
+   background-color:#699FC2;
    float: left;
   font-family: "Times New Roman", Times, serif;
 }
 #content1, #content3 {
-   background-color:#F5FFFA;  
+   background-color:#699FC2;  
    width: 480px;
    float: left;
   font-family: "Times New Roman", Times, serif;
 }
 #content2, #content4 {
-   background-color:#F5FFFA;
+   background-color:#699FC2;
    color:black;
    width: 240px;
    height: 266px;
