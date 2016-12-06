@@ -7,6 +7,16 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #333;
+	background-color: #eee;
+	/*font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;*/
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
 
 html {
     color: #222;
