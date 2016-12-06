@@ -132,21 +132,23 @@ ul {
   background-color:black;
   width: 260px;
   float: right;
+   font-family: Gotham ,'sans serif';
 }
 #menu a {
   color: white;
-   font-family: Neuzeit ,'sans serif';
+   font-family: Gotham ,'sans serif';
 }
 #content {
    width: 960px;
    background-color:#E0FFFF;
    float: left;
+   font-family: Gotham ,'sans serif';
 }
 #content1, #content3 {
    background-color:#E0FFFF;  
    width: 420px;
    float: left;
-   font-family: Neuzeit ,'serif';
+   font-family: Gotham ,'sans serif';
 }
 #content2, #content4 {
    background-color:#E0FFFF;
@@ -154,20 +156,21 @@ ul {
    width: 240px;
    height: 266px;
    float: left;
-     font-family: Neuzeit ,'serif';
+     font-family: Gotham ,'sans serif';
 }
 #content5 {
    width: 960px;
    background-color:lightskyblue;
    color: white;
    float: left;
-     font-family: Neuzeit ,'serif';
+     font-family: Gotham ,'sans serif';
 }
 #logo {
   background-color: black;
   color: white;
   width: 700px;
   float: left;
+   font-family: Gotham ,'sans serif';
 }
 #logo h1 {
   padding: 0px;
@@ -190,6 +193,7 @@ ul {
 #footer {
   background-color:#00BFFF;
   clear: both;
+   font-family: Gotham ,'sans serif';
 }
 
 
