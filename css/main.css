@@ -135,6 +135,7 @@ ul {
 }
 #menu a {
   color: white;
+   font-family: Neuzeit ,'sans serif';
 }
 #content {
    width: 960px;
@@ -145,6 +146,7 @@ ul {
    background-color:white;  
    width: 240px;
    float: left;
+   font-family: Neuzeit ,'serif';
 }
 #content2, #content4 {
    background-color:black;
@@ -152,12 +154,14 @@ ul {
    width: 240px;
    height: 266px;
    float: left;
+     font-family: Neuzeit ,'serif';
 }
 #content5 {
    width: 960px;
    background-color:lightskyblue;
    color: white;
    float: left;
+     font-family: Neuzeit ,'serif';
 }
 #logo {
   background-color: black;
@@ -168,12 +172,13 @@ ul {
 #logo h1 {
   padding: 0px;
   margin: 0px;
-  font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+  font-family:simplifica, baufra, 'sans serif';
 }
 #feature1, #feature2, #feature3 {
   float: left;
   width: 310px;
   color: white;
+     font-family: Neuzeit ,'serif';
 }
 #spacer {
   float: left;
@@ -183,7 +188,7 @@ ul {
   width: 100%;
 }
 #footer {
-  background-color:orange;
+  background-color:#AEE6ED;
   clear: both;
 }
 
