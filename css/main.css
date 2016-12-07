@@ -140,14 +140,13 @@ ul {
 
 }
 #menu {
-  width: 320px;
+  width: 300px;
   background-color:black;
   float: right;
    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     
 }
-#menu a {
-  width: 700px;	
+#menu a {	
   color: white;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     
