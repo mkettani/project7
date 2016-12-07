@@ -146,8 +146,9 @@ ul {
     
 }
 #menu a {
+  width: 460px;	
   color: white;
-   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     
 }
 #content {
