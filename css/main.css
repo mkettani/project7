@@ -142,7 +142,7 @@ ul {
 #menu {
   width: 300px;
   background-color:black;
-  color: black;
+  color: white;
   float: right;
    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     
@@ -166,7 +166,7 @@ ul {
 }
 #content2, #content4 {
    background-color:#699FC2;
-   color:black;
+   color:white;
    width: 240px;
    height: 266px;
    float: left;
