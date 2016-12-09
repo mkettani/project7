@@ -72,8 +72,7 @@ video {
 fieldset {
     border: 0;
     margin: 0;
-    padding: 0;
-}
+    padding: 0;}
 
 /*
  * Allow only vertical resizing of textareas.
@@ -125,7 +124,7 @@ ul {
 #banner {
   clear: both;
   background-image: url("banner.jpg");
-  height: 300px;
+  height: 350px;
   background-size: cover;
   width: 960px;
   background-repeat: no-repeat;
