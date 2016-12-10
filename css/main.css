@@ -139,7 +139,7 @@ ul {
 
 }
 #menu {
-  width: 450px;
+  width: 400px;
   background-color:black;
   color: lightskyblue;
   float: right;
@@ -182,7 +182,7 @@ ul {
 #logo {
   background-color: black;
   color: white;
-  width: 510px;
+  width: 560px;
   float: left;
    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
