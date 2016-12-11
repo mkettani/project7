@@ -181,6 +181,7 @@ ul {
 }
 #logo {
   background-color: black;
+  font-size: 85%;
   color: white;
   width: 630px;
   float: left;
