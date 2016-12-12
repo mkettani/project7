@@ -174,8 +174,8 @@ ul {
 }
 #content5 {
    width: 960px;
-   background-color:#2380BF;
-   color: white;
+   background-color:white;
+   color: black;
    float: left;
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
