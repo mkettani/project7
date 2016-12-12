@@ -152,21 +152,21 @@ ul {
     
 }
 #content {
-   color:white;	
+   color:black;	
    width: 960px;
-   background-color:#A43B1E;
+   background-color:white;
    float: left;
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 #content1, #content3 {
-   background-color:#A43B1E;  
+   background-color:white;  
    width: 480px;
    float: left;
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 #content2, #content4 {
-   background-color:#A43B1E;
-   color:white;
+   background-color:white;
+   color:black;
    width: 240px;
    height: 266px;
    float: left;
