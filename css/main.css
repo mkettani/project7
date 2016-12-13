@@ -158,13 +158,13 @@ ul {
    float: left;
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
-#content1, #content3 {
+#content1 {
    background-color:white;  
    width: 480px;
    float: left;
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
-#content2, #content4 {
+ #content4 {
    background-color:white;
    color:black;
    width: 240px;
