@@ -250,6 +250,7 @@ padding-left: 31px;
    width: 960px;
    background-color:white;
    color: black;
+   padding: 10px;	
    float: left;
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
@@ -259,6 +260,7 @@ padding-left: 31px;
    background-color:white;
    color: black;
    float: left;
+   padding: 10px;	
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
@@ -267,6 +269,7 @@ padding-left: 31px;
    background-color:white;
    color: black;
    float: left;
+   padding: 10px;	
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
