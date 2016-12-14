@@ -183,13 +183,12 @@ ul {
   background-color: black;
   font-size: 85%;
   color: white;
-  width: 620px;
-  float: left;
-  margin: 10px;	
+  width: 630px;
+  float: left;	
    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 #logo h1 {
-  padding:0px;
+  padding:10px;
   margin: 0px;	
 font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
