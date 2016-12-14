@@ -200,11 +200,7 @@ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 }
-#head1 {	
-  color: white;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  text-align: center; 
-}
+
 #spacer {
   float: left;
   width: 15px;
@@ -425,4 +421,10 @@ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     h3 {
         page-break-after: avoid;
     }
+}
+
+h5 {	
+  color: white;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center; 
 }
