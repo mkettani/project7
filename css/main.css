@@ -135,6 +135,7 @@ ul {
 }
 #header {
   height: 64px;
+  line-height: 64px;	
 
 }
 #menu {
